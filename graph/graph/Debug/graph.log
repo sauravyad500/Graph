@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(95): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(96): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(97): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(98): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(103): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(104): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(105): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(106): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(151): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(152): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(155): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(156): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(159): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(160): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(163): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(164): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(241): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(237): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(816): note: see declaration of '_gcvt'
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(238): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(816): note: see declaration of '_gcvt'
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(239): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\uplc\documents\visual studio 2017\projects\graph\graph\source.cpp(240): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(931): note: see declaration of 'mbstowcs'
+  graph.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\graph\Debug\graph.exe
+  graph.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\graph\Debug\graph.pdb (Partial PDB)

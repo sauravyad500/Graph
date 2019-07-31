@@ -1,0 +1,36 @@
+﻿  Source.cpp
+Source.cpp(95): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(96): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(97): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(98): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(103): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(104): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(105): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(106): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(156): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(157): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(160): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(161): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(164): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(165): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(168): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(169): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+Source.cpp(244): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(244): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+Source.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Source.cpp(242): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(816): note: see declaration of '_gcvt'
+Source.cpp(243): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(816): note: see declaration of '_gcvt'
+Source.cpp(245): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(931): note: see declaration of 'mbstowcs'
+  Generating code
+  2 of 2 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  graph.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\graph\x64\Release\graph.exe
